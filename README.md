@@ -5,6 +5,7 @@ A Tip calculator that calculates tip amount for various percentages of the cost 
 - take two inputs from user which are Bill amount and Tip %
 - calculate the Tip amount for the Tip %
 - calculates the total amount that includes the tip
+-  automatically updates the value for Tip amount and Total amount 
 
 ## State Management
 - setState()
