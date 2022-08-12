@@ -8,7 +8,7 @@ A Tip calculator that calculates tip amount for various percentages of the cost 
 -  automatically updates the value for Tip amount and Total amount 
 
 ## State Management
-- setState()
+- Cubit
 
 ## Screen Image
 <img width="1279" alt="Screenshot 2022-04-14 at 00 51 53" src="https://user-images.githubusercontent.com/62282706/163348751-248771b2-981a-43c5-8a94-b539a6827c1f.png">
